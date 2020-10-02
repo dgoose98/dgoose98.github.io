@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>呆鹅ee~</title>
+    <link>http://dgoose98.github.io/</link>
+    <description>Recent content on 呆鹅ee~</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://dgoose98.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>所有分类</title>
+      <link>http://dgoose98.github.io/posts/blog2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dgoose98.github.io/posts/blog2/</guid>
+      <description>测试下分页使用. 结论_index 页面下都会归属与</description>
+    </item>
+    
+    <item>
+      <title>测试标签跟分类</title>
+      <link>http://dgoose98.github.io/posts/blog3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dgoose98.github.io/posts/blog3/</guid>
+      <description>注意点：** “-”和“:”后面一定要有一个空格 否则必报错！！</description>
+    </item>
+    
+    <item>
+      <title>目前需要的测试</title>
+      <link>http://dgoose98.github.io/posts/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dgoose98.github.io/posts/blog/</guid>
+      <description>date:2020/10/02/ 1.找到所有分类如何使用 2.找到所有标签如何使用 3.如何切换文章中生成的图片 （现为随机在img下的图片生成） 4.修正好文章生成的时间 （已解</description>
+    </item>
+    
+  </channel>
+</rss>
